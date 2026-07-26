@@ -8,9 +8,8 @@ Welcome to the official support repository for **File Renamer X**! This reposito
 
 * 📖 **[Official Documentation & Guides](https://filerenamerx.com/how-to/)**
 * ❓ **[Frequently Asked Questions](https://filerenamerx.com/faq)**
-* 💬 **[Ask a Question in Discussions](https://github.com/YOUR-ORG-NAME/support/discussions)**
-* 🐛 **[Report a Bug](https://github.com/YOUR-ORG-NAME/support/issues/new/choose)**
-* 💡 **[Suggest a Feature](https://github.com/YOUR-ORG-NAME/support/issues/new/choose)**
+* 🐛 **[Report a Bug](https://github.com/File-Renamer-X/support/issues/new/choose)**
+* 💡 **[Suggest a Feature](https://github.com/File-Renamer-X/support/issues/new/choose)**
 
 ---
 
