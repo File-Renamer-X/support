@@ -1,0 +1,54 @@
+name: 🐛 Bug Report
+description: Report a problem or glitch in File Renamer X.
+title: "[Bug]: "
+labels: ["type: bug", "triage"]
+body:
+  - type: checkboxes
+    id: search
+    attributes:
+      label: Search Existing Issues
+      options:
+        - label: I have searched existing issues to ensure this bug hasn't already been reported.
+          required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - "macOS (Apple Silicon)"
+        - "macOS (Intel)"
+        - "Windows 11"
+        - "Windows 10"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      placeholder: "e.g., 1.2.0 (Check App > About)"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: What steps led to the unexpected behavior?
+      placeholder: |
+        1. Open File Renamer X
+        2. Drag 500 .JPG files into the window
+        3. Add action 'Make Sequential'
+        4. Click 'Preview'
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs. Actual Behavior
+      description: What did you expect to happen, and what actually happened?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Logs
+      description: Drag and drop screenshots or paste log output here if applicable.
