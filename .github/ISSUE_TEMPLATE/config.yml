@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 How-To Guides & FAQ
+    url: https://filerenamerx.com/how-to/
+    about: Review our official How-To guides for how to accomplish common tasks before opening an issue.
+  - name: 📖 FAQ
+    url: https://filerenamerx.com/faq
+    about: Check our official documentation for answers to common questions before opening an issue.
+  - name: 💬 Ask a Question or Get Help
+    url: https://github.com/File-Renamer-X/support/discussions
+    about: Ask general usage questions or discuss features with the community.
